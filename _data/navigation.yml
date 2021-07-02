@@ -20,6 +20,6 @@ posts:
  - title: "Campaign 1 ▾"
    children: 
      - title: "Mouth of Chaos"
-       url: /posts/
+       url: /campaigns/moc1/
      - title: "The Foultrappers"
        url: /test/
