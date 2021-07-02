@@ -15,5 +15,3 @@ posts:
    children: 
      - title: "A Post"
        url: /posts/
-     - title: "Testing"
-       url: /test/
