@@ -1,5 +1,6 @@
 main:
-  - title: "Posts ▾"
+ /* TOP NAVBAR */
+  - title: "Posts"
     url: /posts/
   - title: "Categories"
     url: /categories/
@@ -9,6 +10,7 @@ main:
     url: /about/
 
 posts:
+ /* SIDEBAR */
  - title: "Posts ▾"
    children: 
      - title: "A Post"
