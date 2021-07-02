@@ -14,5 +14,6 @@ posts:
  - title: "Posts ▾"
    children: 
      - title: "A Post"
-       url: "2010-01-07-post-modified.md"
-
+       url: /posts/
+     - title: "Testing"
+       url: /test/
