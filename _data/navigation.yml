@@ -17,3 +17,9 @@ posts:
        url: /posts/
      - title: "Test"
        url: /test/
+ - title: "Campaign 1 ▾"
+   children: 
+     - title: "Mouth of Chaos"
+       url: /posts/
+     - title: "The Foultrappers"
+       url: /test/
